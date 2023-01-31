@@ -1,1 +1,1 @@
-# Twitter-Starter
+# Decentralized Twitter
